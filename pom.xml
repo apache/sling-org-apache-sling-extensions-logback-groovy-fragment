@@ -40,9 +40,8 @@
 
     <scm>
       <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-extensions-logback-groovy-fragment.git</conncetion>
-      <developerConnection>scm:svn:https://svn.apache.org/repos/asf/sling/trunk/contrib/extensions/groovy-janino-fragment
-      </developerConnection>
-      <url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-extensions-logback-groovy-fragment.git.git</url>
+      <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-extensions-logback-groovy-fragment.git</developerConnection>
+      <url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-extensions-logback-groovy-fragment.git</url>
     </scm>
 
     <build>
